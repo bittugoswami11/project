@@ -1,0 +1,51 @@
+{
+    "data":[
+        {
+            "name": "Ravi gupta",
+            "class": " 10th ",
+            "roll": 122,
+            "subject": "Base subject"
+        },
+        {
+            "name": "Bittu sharma",
+            "class": " 10th ",
+            "roll": 12355,
+            "subject": "Base subject"
+        },
+        {
+            "name": "Lucky kumar",
+            "class": " 10th ",
+            "roll": 124,
+            "subject": "Base subject"
+        },
+        {
+            "name": "Bhupender jogi",
+            "class": " 10th ",
+            "roll": 125,
+            "subject": "Base subject"
+        },
+        {
+            "name": "Subbham saini",
+            "class": "10th",
+            "roll": 126,
+            "subject": "Base subject"
+        },
+        {
+            "name": "Gouver bhaiya",
+            "class": " 10th ",
+            "roll": 127,
+            "subject": "Base subject"
+        },   {
+            "name": "rahual bhaiya",
+            "class": " 10th ",
+            "roll": 128,
+            "subject": "Base subject"
+        },
+        {
+            "name": " anisha bhaiya",
+            "class": " 10th ",
+            "roll": 129,
+            "subject": "Base subject"
+        }
+    ]
+}   

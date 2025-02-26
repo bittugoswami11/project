@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+
+}
+.rowheading {
+  background-color: green;
+  color: white;
+}
+.rowheading:hover{
+background-color: green;
+}
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+th{
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+td{
+  border: 1px solid #ddd;
+  text-align: center;
+  padding: 10px;
+}
+tr:hover {
+  background-color: rgba(165, 158, 158, 0.514);
+}
